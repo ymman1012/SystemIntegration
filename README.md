@@ -29,8 +29,8 @@ A locally hosted web system designed for the barangay health center to provide a
 ## Demo Credentials
 | Username      | Password       |
 | ------------- | -------------- |
-| bhwadmin      | bhwpassword    |
-| nurse         | nursepassword  |
+| admin      | password    |
+| admin         | password  |
 
 ## License
 AdminLTE is an open-source project by [AdminLTE.io](https://adminlte.io/) that is licensed under [MIT](https://opensource.org/license/MIT).
